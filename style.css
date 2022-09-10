@@ -231,7 +231,7 @@ ul{
     margin: 0;
 }
 .bg-image{
-	background-image: url('img/background_whats.png');
+	background-image: url('../img/background_whats.png');
 	background-repeat: repeat;
 	opacity: .06;
 	width: 100%;
